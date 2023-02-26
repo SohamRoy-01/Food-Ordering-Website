@@ -110,23 +110,31 @@ We built the Tostitos website using the following programming languages:
 
 ## Screenshots
 
+![Screenshot (30)](https://user-images.githubusercontent.com/104237973/221420015-5b97312e-2edb-4305-baf2-c838bf081c5a.png)
 
+![Screenshot (31)](https://user-images.githubusercontent.com/104237973/221420027-d07f4c17-1f5b-4a5c-9e36-7299af451f6a.png)
 
-![Tostitos Menu Page](./screenshots/menu.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/104237973/221420030-a25caa54-0aa8-4343-9061-b89ad4dca3d5.png)
 
-![Tostitos Order Page](./screenshots/order.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/104237973/221420036-77f820d8-bf39-41ee-be09-1fc061b2ff91.png)
+
+![Screenshot (34)](https://user-images.githubusercontent.com/104237973/221420041-20c9e7c6-7d81-4ad7-a710-d8d9cac475f1.png)
+
+![Screenshot (35)](https://user-images.githubusercontent.com/104237973/221420044-8a60dbea-9235-40cc-bb3e-5ece93927586.png)
 
 ## Installation
 
 To install Tostitos on your local machine, follow these steps:
 
-1. Clone the repository to your local machine:
-git clone https://github.com/your-username/tostitos.git
-
+1. Clone the repository to your local machine: git@github.com:SohamRoy-01/Food-Ordering-Website.git
 
 2. Open the `index.html` file in your browser.
 
 That's it! You should now be able to view and interact with the Tostitos website locally.
 
-Note that the file
+* Note that the file
+
+## Support
+
+Dont forget to leave a star ⭐️
 
