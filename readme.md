@@ -9,7 +9,6 @@ Welcome to Tostitos, your one-stop destination for delicious and authentic dishe
 - [About](#about)
 - [Menu](#menu)
 - [Review](#review)
-- [Order](#order)
 - [Programming Language](#programming-language)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
@@ -75,30 +74,6 @@ Don't just take our word for it. Read what our customers have to say about us.
 "Absolutely love the food here. Authentic and delicious!" - John Doe
 
 "Amazing service and great food. Highly recommended!" - Jane Smith
-
-## Order
-
-Ready to order? Follow these simple steps:
-
-1. Choose your dishes from our menu.
-2. Add them to your cart.
-3. Review your order.
-4. Enter your delivery address.
-5. Make your payment.
-
-### Order Now
-
-Enjoy free and fast delivery on all orders. Order now and taste the goodness of Tostitos!
-
-## Locations
-
-We have branches in the following countries:
-
-- India
-- UK
-- Russia
-- USA
-- France
 
 ## Programming Language
 
